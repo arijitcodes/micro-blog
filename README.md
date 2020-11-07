@@ -21,6 +21,8 @@ This is not an application to be used publicly. There are many functionalities t
 
 ## Tips
 
-To use the 'Password Reset' and 'User EMail Verification in Registration' make the following changes :
+1. To setup this project in your local directory, set up the config.php properly.
 
-    Change the website for the Password Reset Link to your own website where you are hosting the app in 'VERIFICATION EMAIL' Section of /forgot/forgotpassword.php and /registration.php.
+2. To use the 'Password Reset' and 'User EMail Verification in Registration' make the following changes :
+
+   Change the website for the Password Reset Link to your own website where you are hosting the app in 'VERIFICATION EMAIL' Section of /forgot/forgotpassword.php and /registration.php.
